@@ -7,3 +7,5 @@ SELECT * FROM CHILDRENS
 
 insert into CHILDRENS
 select 3,'nodirbek'
+insert into CHILDRENS
+select 4,'nosirbek'
