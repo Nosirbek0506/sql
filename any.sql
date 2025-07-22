@@ -9,3 +9,6 @@ insert into CHILDRENS
 select 3,'nodirbek'
 insert into CHILDRENS
 select 4,'nosirbek'
+
+  
+select * from childrens where id=1
